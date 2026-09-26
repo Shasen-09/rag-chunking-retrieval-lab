@@ -90,7 +90,7 @@ Create a `.env` file and add your API keys:
 
 ```env
 HUGGINGFACEHUB_API_TOKEN=your_token_here
-OPENAI_API_KEY=your_key_here
+
 ```
 
 Then you can run the Python files:
