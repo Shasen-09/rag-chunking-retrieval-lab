@@ -89,7 +89,7 @@ pip install langchain langchain-experimental langchain-huggingface chromadb pyth
 Create a `.env` file and add your API keys:
 
 ```env
-HUGGINGFACEHUB_API_TOKEN=your_token_here
+GROQ_API_KEY=your_token_here
 
 ```
 
